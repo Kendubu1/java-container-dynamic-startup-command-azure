@@ -11,7 +11,7 @@ echo $STARTUP
 $($STARTUP)
 ```
 Once deployed the startup command in use will be return at the root path.
-![image](https://user-images.githubusercontent.com/9121941/126570605-8df285cb-21a9-490c-a92c-99a402ded595.png)
+- ![image](https://user-images.githubusercontent.com/9121941/126570605-8df285cb-21a9-490c-a92c-99a402ded595.png)
 
 ### Add the App Setting "STARTUP" via Azure CLI
 ```sh
